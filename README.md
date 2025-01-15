@@ -1,12 +1,30 @@
-## My Project
+## All things Amazon Nova Models - Python Examples
 
-TODO: Fill this README out!
+This repository contains python scripts to interact with Amazon's Nova language models using AWS Bedrock services.
 
-Be sure to:
 
-* Change the title in this README
-* Edit your repository description on GitHub
+### Prerequisites
 
+- Python 3.6 or higher
+- AWS account with access to Bedrock services
+- Boto3 library installed (`pip install boto3`)
+
+### Installation
+
+1. Clone this repository:
+   ```
+   git clone <repository-url>
+   cd <repository-directory>
+   ```
+
+2. Install required dependencies:
+   ```
+   pip install boto3
+   ```
+
+3. Configure AWS credentials:
+   Ensure your AWS credentials are set up either through environment variables, AWS CLI configuration, or an IAM role if running on an AWS service.
+ 
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
@@ -14,4 +32,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
