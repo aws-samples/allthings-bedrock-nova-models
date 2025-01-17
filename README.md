@@ -35,4 +35,4 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 ## Disclaimer
 
-You should not use this AWS Content or Third-Party Content in your production accounts, or on production or other critical data. You are responsible for testing, securing, and optimizing the AWS Content or Third-Party Content, such as sample code, as appropriate for production grade use based on your specific quality control practices and standards.
+You should not use this Content in your production accounts, or on production or other critical data. You are responsible for testing, securing, and optimizing content, such as sample code, as appropriate for production grade use based on your specific quality control practices and standards
