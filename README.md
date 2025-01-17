@@ -1,6 +1,6 @@
 ## All things Amazon Nova Models - Python Examples
 
-This repository contains python scripts to interact with Amazon's Nova language models using AWS Bedrock services.
+This repository contains python scripts to interact with Amazon's Nova models using Amazon Bedrock.
 
 ### Prerequisites
 
@@ -27,7 +27,6 @@ This repository contains python scripts to interact with Amazon's Nova language 
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
 
 ## License
 
